@@ -1,0 +1,14 @@
+GIT INIT : to make current folder as a git repository
+
+touch <filename> : to create a empty text document file in the folder.
+
+vim <filename> : add text to the file.
+
+"esc" and ":wq" - to save and close the file.
+
+git branch -M main : to create a branch called main.
+
+git remote add origin https://github.com/saidhanush1702/learnGit.git - adding a remote origin in the created repository.
+
+
+  
